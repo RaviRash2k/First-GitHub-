@@ -8,7 +8,7 @@ public class helloGithub {
 
         String x = "Github";
 
-        System.out.println("Hello " + x + "!");
+        System.out.println("Hello " + x + ": )");
 
     }
 
